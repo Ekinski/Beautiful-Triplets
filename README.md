@@ -1,7 +1,6 @@
 # Beautiful-Triplets
 Given an increasing sequenc of integers and the value of , d count the number of beautiful triplets in the sequence.
 
-
 Function Description
 
 Complete the beautifulTriplets function in the editor below. It must return an integer that represents the number of beautiful triplets in the sequence.
@@ -12,7 +11,6 @@ d: an integer
 arr: an array of integers, sorted ascending
 
 Output Format
-
 Print a single line denoting the number of beautiful triplets in the sequence.
 
 Sample Input
